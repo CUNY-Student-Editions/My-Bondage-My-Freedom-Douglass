@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>My Bondage and My Freedom</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Douglass, Frederick">Frederick Douglass</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">5f33b4e3-3c94-4960-b87e-c3ccb4f0a153</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.32.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">d84b3564-5128-437e-bed7-61c804e458ea</dc:identifier>
+    <meta content="{&quot;Frederick Douglass&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="My Bondage and My Freedom"/>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="frontispiece.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="title.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="dedication.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="preface.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="introduction.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="CUNY-imprint.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="my-bondage-frontispiece.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="chapter1.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="my-bondage-cover.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="chapter2.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="chapter3.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="chapter4.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="chapter5.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="chapter6.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="chapter7.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="chapter8.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="chapter9.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="chapter10.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="chapter11.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="chapter12.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="chapter13.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="chapter14.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="chapter15.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="chapter16.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="chapter17.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="chapter18.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="chapter19.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="chapter20.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="chapter21.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="chapter22.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="chapter23.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="chapter24.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="chapter25.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="appendix.html" id="id36" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id2"/>
+    <itemref idref="id1"/>
+    <itemref idref="id4"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id11"/>
+    <itemref idref="id13"/>
+    <itemref idref="id10"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+  </spine>
+  <guide/>
+</package>

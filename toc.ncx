@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="5f33b4e3-3c94-4960-b87e-c3ccb4f0a153" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.32.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>My Bondage and My Freedom</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="start.xhtml"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>Frontispiece</text>
+        </navLabel>
+        <content src="frontispiece.html"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Title Page</text>
+        </navLabel>
+        <content src="title.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Copyright</text>
+        </navLabel>
+        <content src="copyright.html#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Note on the Text</text>
+      </navLabel>
+      <content src="note.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>My Bondage, and My Freedom</text>
+      </navLabel>
+      <content src="dedication.html#toc_1"/>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Dedication</text>
+        </navLabel>
+        <content src="dedication.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="preface.html"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="introduction.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Part I. Life as a Slave</text>
+      </navLabel>
+      <content src="chapter1.html#toc_1"/>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Chapter I: The Author’s Childhood</text>
+        </navLabel>
+        <content src="chapter1.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Chapter II: The Author Removed from his First Home</text>
+        </navLabel>
+        <content src="chapter2.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Chapter III: The Author’s Parentage</text>
+        </navLabel>
+        <content src="chapter3.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Chapter IV: A General Survey of the Slave Plantation</text>
+        </navLabel>
+        <content src="chapter4.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Chapter V: Gradual Inituation into the Mysteries of Slavery</text>
+        </navLabel>
+        <content src="chapter5.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Chapter VI: Treatment of Slaves on Lloyd’s Plantation</text>
+        </navLabel>
+        <content src="chapter6.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Chapter VII: Life in the Great House</text>
+        </navLabel>
+        <content src="chapter7.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Chapter VIII: A Chapter of Horrors</text>
+        </navLabel>
+        <content src="chapter8.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>Chapter IX: Personal Treatment of the Author</text>
+        </navLabel>
+        <content src="chapter9.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>Chapter X: Life in Baltimore</text>
+        </navLabel>
+        <content src="chapter10.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Chapter XI: “A Change Came O’Er the Spirit of my Dream”</text>
+        </navLabel>
+        <content src="chapter11.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>Chapter XII: Religious Nature Awakened</text>
+        </navLabel>
+        <content src="chapter12.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>Chapter XIII: The Vicissitudes of Slave Life</text>
+        </navLabel>
+        <content src="chapter13.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>Chapter XIV: Experience in St Michael’s</text>
+        </navLabel>
+        <content src="chapter14.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>Chapter XV: Covey, the Negro-Breaker</text>
+        </navLabel>
+        <content src="chapter15.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Chapter XVI: Another Pressure of the Tyrant's Vice</text>
+        </navLabel>
+        <content src="chapter16.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>Chapter XVII: The Last Flogging</text>
+        </navLabel>
+        <content src="chapter17.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>Chapter XVIII: New Replations and Duties</text>
+        </navLabel>
+        <content src="chapter18.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>Chapter XIX: The Runaway Plot</text>
+        </navLabel>
+        <content src="chapter19.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>Chapter XX: Apprenticeship LIfe</text>
+        </navLabel>
+        <content src="chapter20.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>Chapter XXI: My Escape from Freedom</text>
+        </navLabel>
+        <content src="chapter21.html#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Part II. Life as a Freeman</text>
+      </navLabel>
+      <content src="chapter22.html#toc_1"/>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>Chapter XXII: Liberty Obtained</text>
+        </navLabel>
+        <content src="chapter22.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>Chapter XXIII: Introduced to the Abolitionists</text>
+        </navLabel>
+        <content src="chapter23.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>:Chapter XXIV: Twenty-one Months in Great Britain</text>
+        </navLabel>
+        <content src="chapter24.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>Chapter XXV: Various Incidents.</text>
+        </navLabel>
+        <content src="chapter25.html#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>Appendix: Extracts from Speeches, Etc.</text>
+      </navLabel>
+      <content src="appendix.html#toc_1"/>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>Reception Speech at Finsbury Chapel, Moorfields, England</text>
+        </navLabel>
+        <content src="appendix.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>Letter to his Old Master</text>
+        </navLabel>
+        <content src="appendix.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>The Nature of Slavery</text>
+        </navLabel>
+        <content src="appendix.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>Inhumanity of Slavery</text>
+        </navLabel>
+        <content src="appendix.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>What to the Slave is the Fourth of July?</text>
+        </navLabel>
+        <content src="appendix.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>The Internal Slave Trade</text>
+        </navLabel>
+        <content src="appendix.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>The Slavery Party</text>
+        </navLabel>
+        <content src="appendix.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>The Anti-Slavery Movement</text>
+        </navLabel>
+        <content src="appendix.html#toc_9"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
